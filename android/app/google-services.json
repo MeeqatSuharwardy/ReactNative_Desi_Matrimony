@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "627723575711",
+    "firebase_url": "https://desi-matrimony-af150-default-rtdb.firebaseio.com",
+    "project_id": "desi-matrimony-af150",
+    "storage_bucket": "desi-matrimony-af150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627723575711:android:4607915a745c0130b61daa",
+        "android_client_info": {
+          "package_name": "com.dilconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627723575711-7tli0ln31fi499e9fboqdvo0u3b9vr71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dilconnection",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "627723575711-gnnvum9v3qumlf0u7anrfequmslf2pgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7HyPADErtabYG0qt4MpRYYfUrRy_iYiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627723575711-gnnvum9v3qumlf0u7anrfequmslf2pgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627723575711-1u812qn3sb6b0qf5qjcioj7g3u253htj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dilconnection",
+                "app_store_id": "1635414469"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

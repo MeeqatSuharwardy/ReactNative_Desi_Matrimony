@@ -1,0 +1,9 @@
+export { default as APP_ICON_WHITE } from './APP_ICON_WHITE.png';
+export { default as APP_ICON_PINK } from './APP_ICON_PINK.png';
+export { default as APP_ICON_WHITE_TRANSPARENT } from './APP_ICON_WHITE_TRANSPARENT.png';
+export { default as APP_ICON_PINK_TRANSPARENT } from './APP_ICON_PINK_TRANSPARENT.png';
+export { default as BACKGROUND_IMAGE } from './BACKGROUND.jpeg';
+export { default as MALE_FORMAL } from './MALE_FORMAL.png';
+export { default as FEMALE_FORMAL } from './FEMALE_FORMAL.png';
+export { default as BLUR } from './BLUR.png';
+export { default as LOCK_IMAGE } from './LOCK.png';

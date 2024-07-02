@@ -1,0 +1,17 @@
+export const LOGIN = 'authentication/authenticate/';
+export const GENERATE_TOKEN = 'authentication/token/generate';
+export const REFRESH_TOKEN = 'authentication/token/refresh/';
+export const LOGOUT = 'logout/';
+export const SIGNUP = 'users/';
+export const USER_INFO = 'users/:id/';
+export const RESET_PASSWORD = 'passwords/forgot/';
+export const GET_EVENTS = 'events/?:page=&:status=';
+export const GET_USER_EVENTS = 'users/:id/events/?:page=&:status=';
+export const CHANGE_EVENT_STATUS_FOR_USER = 'user-events/:id/';
+export const PROFILE_VIEW = 'profile-views/';
+export const USER_PROFILE_VISITED_BY = 'users/:id/profile-visited-by/?:page=';
+export const GET_APP_NEW_USERS = 'users/?page=1';
+export const CREATE_PAYMENT_INTENT = 'payments/create-payment-intent/';
+export const GET_PAYMENT_PLAN = 'payments/payment-plans/';
+export const SENTIMENTS = 'sentiments/';
+export const GET_USER_RECEIVED_SENTIMENTS = 'users/:id/sentiment-from/?:page=&:sentiment=';
